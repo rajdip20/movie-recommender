@@ -1,2 +1,2 @@
 # movie-recommender
-A content based movie recommender system
+A content based movie recommender system.
