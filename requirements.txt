@@ -9,7 +9,7 @@ co==0.2.0
 comtypes==1.1.7
 cycler==0.10.0
 dash-file-dialog-components==0.0.2
-Django==3.0.6
+Django==3.0.7
 django-extensions==3.0.2
 django-werkzeug==1.0.0
 Flask==1.1.2
