@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Movie Recommender</title>
+</head>
+<style type="text/css">
+    body{
+        background-color: red;
+    }
+</style>
+
+<body>
+
+    <h1>Movie recommender</h1>
+    <h3>Enter the movie name</h3>
+    <form action="/recommend" method="POST">
+        <input type="text" name="movie_name"><br>
+        <input type="submit" name="" value="Recommend">
+    </form>
+
+    {% if movie_list %}
+        <h4>List of Movies</h4>
+        <ul>
+        {% for i in movie_list %}
+            <li>{{i}}</li>
+        {% endfor %}
+        </ul>
+    {% endif %}
+
+</body>
+</html>
