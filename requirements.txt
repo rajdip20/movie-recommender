@@ -52,4 +52,4 @@ sqlparse==0.3.1
 threadpoolctl==2.1.0
 tk==0.1.0
 urllib3==1.25.9
-Werkzeug==1.0.1
+Werkzeug==2.2.3
