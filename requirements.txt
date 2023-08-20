@@ -42,7 +42,7 @@ Python-JSON-Formatter==0.1.1
 pyttsx3==2.87
 pytz==2020.1
 pywin32-ctypes==0.2.0
-requests==2.23.0
+requests==2.31.0
 scikit-learn==0.23.1
 scipy==1.10.0
 six==1.15.0
