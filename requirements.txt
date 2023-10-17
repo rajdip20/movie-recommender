@@ -51,5 +51,5 @@ sortedcontainers==2.2.2
 sqlparse==0.4.4
 threadpoolctl==2.1.0
 tk==0.1.0
-urllib3==1.25.9
+urllib3==1.26.18
 Werkzeug==2.2.3
